@@ -6,6 +6,7 @@ Tugas ini menggunakan **Decision Tree Classifier** untuk memprediksi kategori bi
 
 ## Daftar Isi
 
+- [Source Dataset](#source-dataset)
 - [Deskripsi Tugas](#deskripsi-tugas)
 - [Struktur Dataset](#struktur-dataset)
 - [Requirements](#requirements)
@@ -16,6 +17,9 @@ Tugas ini menggunakan **Decision Tree Classifier** untuk memprediksi kategori bi
 - [Interpretasi Kategori](#interpretasi-kategori)
 
 ---
+
+## Source Dataset
+Dataset digunakan berasal dari [Insurance Health Cost Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance) yang berisi informasi demografis dan biaya asuransi kesehatan dari 1338 individu.
 
 ## Deskripsi Tugas
 
